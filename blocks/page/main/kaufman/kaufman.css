@@ -1,0 +1,10 @@
+@import url(../digits/table/table.css);
+@import url(kaufman__triangle/kaufman__triangle.css);
+@import url(table_theme_dark/table_theme_dark.css);
+@import url(table_theme_dark/table__cell_theme_dark/table__cell_theme_dark.css);
+
+.kaufman {
+    position: relative;
+    background-color: #1f1f1f;
+    overflow: hidden;
+}

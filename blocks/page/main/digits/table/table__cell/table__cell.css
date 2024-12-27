@@ -1,0 +1,6 @@
+@import url(table__cell_margin/table__cell_margin.css);
+
+.table__cell {
+    display: inline-block;
+    width: 250px;
+}

@@ -1,0 +1,23 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/header/header.css);
+@import url(../blocks/page/main/description/description.css);
+@import url(../blocks/page/main/techniques/techniques.css);
+@import url(../blocks/page/main/video/video.css);
+@import url(../blocks/page/main/oakley/oakley.css);
+@import url(../blocks/page/main/feynman/feynman.css);
+@import url(../blocks/page/main/digits/digits.css);
+@import url(../blocks/page/main/khan/khan.css);
+@import url(../blocks/page/main/kaufman/kaufman.css);
+@import url(../blocks/page/main/resources/resources.css);
+@import url(../blocks/page/footer/footer.css);
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

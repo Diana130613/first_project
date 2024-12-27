@@ -1,0 +1,7 @@
+@import url(cards/cards.css);
+
+.techniques {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}

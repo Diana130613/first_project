@@ -1,0 +1,16 @@
+@import url(footer__columns/footer__columns.css);
+@import url(footer__columns/footer__column_content_copyright/footer__column_content_copyright.css);
+@import url(footer__columns/footer__column_content_copyright/logo_place_footer/logo_place_footer.css);
+@import url(footer__columns/footer__column_content_copyright/footer__author/footer__author.css);
+@import url(footer__columns/footer__column-heading.css);
+@import url(footer__columns/footer__column-links.css);
+
+.footer {
+    display: flex;
+    position: relative;
+    background-color: #1f1f1f;
+    color: white;
+    min-height: 250px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
